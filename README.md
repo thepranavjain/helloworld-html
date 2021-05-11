@@ -11,7 +11,7 @@ It is super easy to deploy it using Roost.
 
 Done ...
 
-You may now access this webpage and using url roost-controlplane:30909 in your browser.
+You may now access this webpage and using url http://roost-worker:30909 in your browser.
 
 Share the microservice with your friends and use Roost's collaboration features to develop more microservices with them.
 
